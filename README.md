@@ -4,7 +4,7 @@ Program ini dibuat untuk memenuhi tugas praktikum **Struktur Data dan Algoritma*
 
 ---
 
-## 🎯 Tujuan Program
+Tujuan Program
 
 Membuat sebuah program berbasis bahasa C yang dapat mengelola:
 
@@ -14,7 +14,7 @@ Membuat sebuah program berbasis bahasa C yang dapat mengelola:
 
 ---
 
-## 📋 Fitur Program (Menu)
+Fitur Program (Menu)
 
 Program menyediakan antarmuka berbasis teks (CLI) dengan menu interaktif berikut:
 
@@ -40,7 +40,7 @@ Program menyediakan antarmuka berbasis teks (CLI) dengan menu interaktif berikut
 
 ---
 
-## 🧠 Lesson Learned
+Lesson Learned
 
 Selama pengembangan program ini, saya mempelajari banyak hal penting dalam praktik langsung:
 
@@ -65,7 +65,7 @@ Selama pengembangan program ini, saya mempelajari banyak hal penting dalam prakt
 
 ---
 
-## 📌 Catatan Tambahan
+Catatan Tambahan
 
 - Semua data disimpan secara **dinamis** (tanpa batas jumlah kota atau penduduk, tergantung memori).
 - Program ini berjalan melalui **menu CLI** dan belum mendukung penyimpanan ke file.
@@ -74,7 +74,7 @@ Selama pengembangan program ini, saya mempelajari banyak hal penting dalam prakt
 
 ---
 
-## 🔗 Referensi
+Referensi
 
 - Project GitHub: [https://github.com/DevManu-de/doublist.git](https://github.com/DevManu-de/doublist.git)
 
