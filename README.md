@@ -59,20 +59,6 @@ Selama pengembangan program ini, saya mempelajari banyak hal penting dalam prakt
 - **Pencarian Case-Insensitive**:
   - Menggunakan `strcasecmp()` membuat pencarian lebih user-friendly.
 
-- **Modularitas dan Validasi**:
-  - Pemisahan logika kota vs penduduk memudahkan pengembangan.
-  - Validasi input mencegah kesalahan saat runtime.
-
----
-
-Catatan Tambahan
-
-- Semua data disimpan secara **dinamis** (tanpa batas jumlah kota atau penduduk, tergantung memori).
-- Program ini berjalan melalui **menu CLI** dan belum mendukung penyimpanan ke file.
-- Nama kota dan penduduk dianggap **unik dalam konteks masing-masing**, namun tidak dicek duplikasinya secara eksplisit.
-- Proyek ini cocok sebagai dasar untuk pengembangan lebih lanjut seperti sistem administrasi wilayah, atau simulasi data hierarkis.
-
----
 
 Referensi
 
